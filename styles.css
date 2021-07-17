@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #1C2833;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+header {
+    display: flex;
+    height: 7rem;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #31B972; 
+}
+
+h1 {
+    text-transform: uppercase;
+    color:#F2F3F4;
+}
